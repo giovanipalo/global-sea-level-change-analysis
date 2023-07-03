@@ -26,6 +26,12 @@ Antes de executar o projeto, é necessário ter instalado o Python e as seguinte
 - Seaborn
 - Scipy
 
+Para instalar as bibliotecas, execute o seguinte comando no terminal ou prompt de comando:
+
+`pip install pandas matplotlib seaborn scipy`
+
+Certifique-se de ter o Python e o pip (gerenciador de pacotes do Python) instalados em seu sistema antes de executar o comando de instalação.
+
 ## Execução do Projeto
 
 Para executar o projeto, siga os passos abaixo:
@@ -48,18 +54,14 @@ Esses insights fornecem informações valiosas para compreender as mudanças no 
 
 ### Gráficos
 
-
 ![Gráfico 1](https://github.com/giovanipalo/global-sea-level-change-analysis/blob/main/graphics/Global%20Mean%20Sea%20Level%20Variation.png)
-Descrição: Este gráfico exibe a variação do nível médio global do mar ao longo do tempo, destacando as flutuações sazonais e as tendências de aumento ao longo dos anos.
-
+**Descrição:** Este gráfico exibe a variação do nível médio global do mar ao longo do tempo, destacando as flutuações sazonais e as tendências de aumento ao longo dos anos.
 
 ![Gráfico 2](https://github.com/giovanipalo/global-sea-level-change-analysis/blob/main/graphics/Trend%20of%20Global%20Mean%20Sea%20Level%20Variation.png)
-Descrição: Neste gráfico, é possível visualizar a tendência de aumento do nível médio global do mar ao longo do tempo, mostrando a direção e a magnitude dessa mudança.
-
+**Descrição:** Neste gráfico, é possível visualizar a tendência de aumento do nível médio global do mar ao longo do tempo, mostrando a direção e a magnitude dessa mudança.
 
 ![Gráfico 3](https://github.com/giovanipalo/global-sea-level-change-analysis/blob/main/graphics/Uncertainty%20of%20Global%20Mean%20Sea%20Level%20Measurements.png)
-Descrição: Esse gráfico ilustra a incerteza associada às medições do nível médio global do mar, fornecendo informações sobre a confiabilidade dos dados coletados.
-
+**Descrição:** Esse gráfico ilustra a incerteza associada às medições do nível médio global do mar, fornecendo informações sobre a confiabilidade dos dados coletados.
 
 ## Contribuições e Melhorias Futuras
 
