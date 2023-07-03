@@ -46,6 +46,20 @@ Com base na análise dos dados, alguns insights importantes podem ser destacados
 
 Esses insights fornecem informações valiosas para compreender as mudanças no nível do mar e seus possíveis impactos no futuro. É importante destacar que essas conclusões são baseadas nos dados disponíveis e nas análises realizadas até o momento.
 
+### Gráficos
+
+**Variação do Nível Médio Global do Mar**
+![Gráfico 1](Global Mean Sea Level Variation.png)
+Descrição: Este gráfico exibe a variação do nível médio global do mar ao longo do tempo, destacando as flutuações sazonais e as tendências de aumento ao longo dos anos.
+
+**Tendência da Variação do Nível Médio Global do Mar**
+![Gráfico 2](Trend of Global Mean Sea Level Variation.png)
+Descrição: Neste gráfico, é possível visualizar a tendência de aumento do nível médio global do mar ao longo do tempo, mostrando a direção e a magnitude dessa mudança.
+
+**Incerteza das Medições do Nível Médio Global do Mar**
+![Gráfico 3](Uncertainty of Global Mean Sea Level Measurements.png)
+Descrição: Esse gráfico ilustra a incerteza associada às medições do nível médio global do mar, fornecendo informações sobre a confiabilidade dos dados coletados.
+
 ## Contribuições e Melhorias Futuras
 
 Este projeto é uma análise inicial das mudanças globais no nível do mar e pode ser expandido e aprimorado de várias maneiras. Algumas sugestões de contribuições e melhorias futuras incluem:
@@ -63,3 +77,14 @@ Se você deseja contribuir com o projeto, sinta-se à vontade para fazer um fork
 - CSIRO: [Climate Change: Science and Solutions for Australia](https://www.csiro.au/en/Research/OandA/Areas/Assessing-our-climate/State-of-the-Climate-2016/Oceans/Sea-level)
 - NOAA: [Sea Level Trends](https://tidesandcurrents.noaa.gov/sltrends/)
 - NASA: [Jason-3](https://www.jpl.nasa.gov/missions/jason-3/)
+
+Os gráficos são os seguintes:
+
+Variação do Nível Médio Global do Mar: Imagem do Gráfico 1
+Descrição: Este gráfico exibe a variação do nível médio global do mar ao longo do tempo, destacando as flutuações sazonais e as tendências de aumento ao longo dos anos.
+
+Tendência da Variação do Nível Médio Global do Mar: Imagem do Gráfico 2
+Descrição: Neste gráfico, é possível visualizar a tendência de aumento do nível médio global do mar ao longo do tempo, mostrando a direção e a magnitude dessa mudança.
+
+Incerteza das Medições do Nível Médio Global do Mar: Imagem do Gráfico 3
+Descrição: Esse gráfico ilustra a incerteza associada às medições do nível médio global do mar, fornecendo informações sobre a confiabilidade dos dados coletados.
